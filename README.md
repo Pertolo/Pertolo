@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Pertolo
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Pertolo/Pertolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->Hola soy @Pertolo
+Me interesa  todo lo relacionado con la informática
+Actualmente estoy estudiando DAM y quiero aprender java, SQL, RSS, htlml , etc. y todo lo relacionado con el curso de DAM
+Cuando aprenda "algo", trataré de colaborar con los demás.
